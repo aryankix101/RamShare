@@ -1,0 +1,50 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #343a40;
+    color: #fff;
+    padding: 1rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.form-control:disabled {
+    background-color: #f8f9fa;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.profile-picture-placeholder {
+    width: 150px;
+    height: 150px;
+    background-color: #dee2e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6c757d;
+    font-size: 5rem;
+}
+
+
+.custom-file-label.selected {
+    color: #495057;
+    background-color: #fff;
+    border-color: #ced4da;
+}
+
+.save-changes {
+    margin-top: 20px;
+    padding: 0.5rem 1rem;
+}
+

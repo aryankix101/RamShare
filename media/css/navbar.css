@@ -1,0 +1,57 @@
+.brand-link {
+    font-weight: bold;
+    color: #FFB300 !important;
+    padding-left: 40px;
+}
+
+.sign-in {
+    float: right;
+    color: #FFB300 !important;
+    padding-right: 40px;
+    font-weight: bold !important;
+}
+
+.sign-in i {
+    padding: 10px;
+    color: #FFB300 !important;
+}
+
+.nav-right {
+    float: right;
+    display: flex;
+    align-items: center;
+    padding-right: 40px;
+}
+
+.nav-right .nav-link {
+    color: #FFB300;
+    font-weight: bold;
+    padding-right: 50px;
+    transition: color 0.3s ease;
+}
+
+.nav-right .nav-link:hover {
+    color: #FFB300;
+}
+
+.my-trips {
+    padding-right: 20px;
+}
+
+.ride-listings {
+    padding-right: 20px;
+}
+
+.dropdown-menu {
+    background-color: #343a40;
+}
+
+.dropdown-item {
+    color: #FFB300;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-item:hover {
+    background-color: #495057;
+    color: #FFB300;
+}
